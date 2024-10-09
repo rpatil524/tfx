@@ -51,7 +51,7 @@ model, please see the “Model-Agnostic TFMA” section below.
 
 After your Estimator is trained, you will need to export a saved model for
 evaluation purposes. To learn more, see the
-[TFMA guide](/tfx/model_analysis/get_started).
+[TFMA guide](https://www.tensorflow.org/tfx/model_analysis/get_started).
 
 ### Configuring Slices
 
@@ -308,7 +308,7 @@ contains several examples:
 
 *   [Fairness_Indicators_Example_Colab.ipynb](https://github.com/tensorflow/fairness-indicators/blob/master/g3doc/tutorials/Fairness_Indicators_Example_Colab.ipynb)
     gives an overview of Fairness Indicators in
-    [TensorFlow Model Analysis](https://www.tensorflow.org/tfx/guide/tfma) and
+    [TensorFlow Model Analysis](../tfma) and
     how to use it with a real dataset. This notebook also goes over
     [TensorFlow Data Validation](https://www.tensorflow.org/tfx/data_validation/get_started)
     and [What-If Tool](https://pair-code.github.io/what-if-tool/), two tools for
